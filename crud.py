@@ -81,4 +81,4 @@ tk.Button(ventana, text="Consultar", command=consultar).grid(row=5, column=1, pa
 tk.Button(ventana, text="Actualizar", command=actualizar).grid(row=6, column=0, pady=4)
 tk.Button(ventana, text="Eliminar", command=eliminar).grid(row=6, column=1, pady=4)
 #accion para correr tkinter Leonardo franco espino 
-ventana.mainloop()
+ventana.mainloop()# Interfaz que da inicio al sistema y muestra los datos compilados ( Ricardo Cruz Martinez)
