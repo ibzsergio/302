@@ -51,7 +51,7 @@ def actualizar():
     con.close()
     messagebox.showinfo("TEST", "Actualizado")
     consultar()
-#JOSE FRANCISCO CRISTÓBAL GRANADOS #FRIDA DANIELA MORALES ENTZANA 
+#JOSE FRANCISCO CRISTÓBAL GRANADOS #FRIDA DANIELA MORALES ENTZANA #samadhi Cayetano Fonseca
 def eliminar():
     con = conectar()
     cur = con.cursor()
