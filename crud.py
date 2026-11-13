@@ -11,7 +11,7 @@ def conectar():
         password="",
         database="302",
     )
-#NERI PAULETTE ALMARAZ DOMINGUEZ 
+#Neri Almaraz Dominguez 
 # CODIGO PARA GUARDAR, CONSULTAR, ACTUALIZAR Y ELIMINAR REGISTROS EN LA BASE DE DATOS
 def guardar():
     con = conectar()
