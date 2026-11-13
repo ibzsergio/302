@@ -1,4 +1,5 @@
 #leticia alexa
+#Dayana Carolina 
 #itzel Rosas Galván 
 #mia milliliani
 import mysql.connector
