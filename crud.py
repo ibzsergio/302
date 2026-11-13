@@ -46,7 +46,7 @@ def actualizar():
     con.close()
     messagebox.showinfo("TEST", "Actualizado")
     consultar()
-
+#FUNCION PARA ELIMINAR OSCAR ISAAC HERRERA LUZ
 def eliminar():
     con = conectar()
     cur = con.cursor()
