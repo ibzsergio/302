@@ -24,6 +24,7 @@ def guardar():
     con.close()
     messagebox.showinfo("TEST", "Guardado")
     consultar()
+#Luis Manuel Emba Falcón 
 #Denise Geraldin Grande Fonseca 
 def consultar():
     con = conectar()
