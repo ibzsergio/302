@@ -56,7 +56,7 @@ def eliminar():
     con.close()
     messagebox.showinfo("TEST", "Eliminado")
     consultar()
-
+#botones del código Oscar Isaac Herrera Luz 
 ventana = tk.Tk()
 ventana.title("TEST")
 tk.Label(ventana, text="Id").grid(row=0, column=0, padx=6, pady=4)
