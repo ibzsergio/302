@@ -43,6 +43,7 @@ def actualizar():
         "UPDATE test SET nombre=%s, correo=%s, edad=%s WHERE id=%s",
         (nombre.get(), correo.get(), edad.get(), id_registro.get()),
     )
+    #CODIGO PARA ACTUALIZAR Marina Itzel Juárez Nava 
     con.commit()
     cur.close()
     con.close()
