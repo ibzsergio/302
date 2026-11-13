@@ -1,7 +1,7 @@
 import mysql.connector
 import tkinter as tk
 from tkinter import messagebox
-
+#codigo para conectar la base de datos (Sebastian ramos jacobo)
 def conectar():
     return mysql.connector.connect(
         host="localhost",
