@@ -1,4 +1,4 @@
-
+# DAR INICIO AL SISTEMA PYTHON Y BD ( RICARDO CRUZ MARTINEZ)
 import mysql.connector
 import tkinter as tk
 from tkinter import messagebox
