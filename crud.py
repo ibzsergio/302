@@ -22,7 +22,7 @@ def guardar():
     con.close()
     messagebox.showinfo("TEST", "Guardado")
     consultar()
-
+#Denise Geraldin Grande Fonseca 
 def consultar():
     con = conectar()
     cur = con.cursor()
