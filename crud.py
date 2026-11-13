@@ -49,7 +49,7 @@ def actualizar():
     con.close()
     messagebox.showinfo("TEST", "Actualizado")
     consultar()
-#JOSE FRANCISCO CRISTÓBAL GRANADOS 
+#JOSE FRANCISCO CRISTÓBAL GRANADOS #FRIDA DANIELA MORALES ENTZANA 
 def eliminar():
     con = conectar()
     cur = con.cursor()
