@@ -9,6 +9,7 @@ def conectar():
         password="",
         database="302",
     )
+#YESSICA ODET DE LOS SANTOS GUTIÉRREZ 
 # CODIGO PARA GUARDAR, CONSULTAR, ACTUALIZAR Y ELIMINAR REGISTROS EN LA BASE DE DATOS
 def guardar():
     con = conectar()
