@@ -1,6 +1,6 @@
 #leticia alexa
 #neri Paulette 
-#Dayana Carolina 
+#zuri Naomi 
 #itzel Rosas Galván 
 #mia milliliani
 import mysql.connector
