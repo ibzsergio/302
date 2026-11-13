@@ -70,6 +70,7 @@ tk.Label(ventana, text="Correo").grid(row=2, column=0, padx=6, pady=4)
 correo = tk.Entry(ventana)
 correo.grid(row=2, column=1, padx=6, pady=4)
 tk.Label(ventana, text="Edad").grid(row=3, column=0, padx=6, pady=4)
+#DAYANA CAROLINA MUCIÑO GUTIÉRREZ 
 edad = tk.Entry(ventana)
 edad.grid(row=3, column=1, padx=6, pady=4)
 lista = tk.Listbox(ventana, width=42)
