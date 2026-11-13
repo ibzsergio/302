@@ -33,7 +33,7 @@ def consultar():
     lista.delete(0, tk.END)
     for fila in filas:
         lista.insert(tk.END, f"{fila[0]} | {fila[1]} | {fila[2]} | {fila[3]}")
-
+# FUNCION DE ACTUALIZAR 
 def actualizar():
     con = conectar()
     cur = con.cursor()
