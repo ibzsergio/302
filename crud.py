@@ -1,3 +1,4 @@
+
 import mysql.connector
 import tkinter as tk
 from tkinter import messagebox
@@ -78,4 +79,5 @@ tk.Button(ventana, text="Guardar", command=guardar).grid(row=5, column=0, pady=4
 tk.Button(ventana, text="Consultar", command=consultar).grid(row=5, column=1, pady=4)
 tk.Button(ventana, text="Actualizar", command=actualizar).grid(row=6, column=0, pady=4)
 tk.Button(ventana, text="Eliminar", command=eliminar).grid(row=6, column=1, pady=4)
+#accion para correr tkinter Leonardo franco espino 
 ventana.mainloop()
