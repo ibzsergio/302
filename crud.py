@@ -1,3 +1,4 @@
+#leticia alexa
 #mia milliliani
 import mysql.connector
 import tkinter as tk
