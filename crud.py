@@ -1,4 +1,4 @@
-#leticia alexa
+#Neri Almaraz Dominguez 
 #mia milliliani
 import mysql.connector
 import tkinter as tk
