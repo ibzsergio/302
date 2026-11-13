@@ -7,7 +7,7 @@ from tkinter import messagebox
 def conectar():
     return mysql.connector.connect(
         host="localhost",
-        user="root",Evelin amayrami romero Pérez 
+        user="root",#Evelin amayrami romero Pérez 
         password="",
         database="302",
     ) 
