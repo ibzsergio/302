@@ -1,4 +1,5 @@
 #leticia alexa
+#itzel Rosas Galván 
 #mia milliliani
 import mysql.connector
 import tkinter as tk
