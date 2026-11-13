@@ -9,7 +9,7 @@ def conectar():
         password="",
         database="302",
     )
-#dayana Carolina 
+
 #YESSICA ODET DE LOS SANTOS GUTIÉRREZ 
 # CODIGO PARA GUARDAR, CONSULTAR, ACTUALIZAR Y ELIMINAR REGISTROS EN LA BASE DE DATOS
 def guardar():
@@ -25,6 +25,7 @@ def guardar():
     messagebox.showinfo("TEST", "Guardado")
     consultar()
 #Denise Geraldin Grande Fonseca 
+#DAYANA CAROLINA MUCIÑO GUTIÉRREZ 
 def consultar():
     con = conectar()
     cur = con.cursor()
