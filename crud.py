@@ -3,6 +3,7 @@
 #zuri Naomi 
 #itzel Rosas Galván 
 #mia milliliani
+#Rivas Mira Yaretzi Guadalupe
 import mysql.connector
 import tkinter as tk
 from tkinter import messagebox
