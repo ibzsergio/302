@@ -1,0 +1,5 @@
+print("bailar")
+print("comer")
+print("reirme")
+print("dormir")
+print("jugar roblox")
