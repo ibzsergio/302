@@ -1,0 +1,5 @@
+print("Jugar Videojuegos")
+print("Dibujar")
+print("Lavar Trastes")
+print("Reflexionar")
+print("HAcer Pan")
