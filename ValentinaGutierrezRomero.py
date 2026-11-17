@@ -1,0 +1,6 @@
+print("Valentina Gutierrez Romero")
+print("Bailar jazz, Ballet, Contemporaneo y otros géneros")
+print("Entrenar natación")
+print("Montar a caballo")
+print("Estudiar y leer")
+print("Salir con mi familia y amigos")
