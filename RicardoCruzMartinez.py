@@ -1,0 +1,15 @@
+print("RICARDO CRUZ MARTINEZ")
+print("GRUPO: 302")
+print("3 SEMESTRE 3 PARCIAL")
+
+print("MIS PASATIEMPOS FAVORITOS")
+
+
+print("1: JUGAR FUTBOL")
+print("2: ESCUCHAR MUSICA")
+print("3: JUGAR VIDEOJUEGOS")
+print("4: APRENDER A PROGRAMAR")
+print("5: VER PELICULAS")
+
+
+

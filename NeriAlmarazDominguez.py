@@ -1,0 +1,6 @@
+print("Mis 5 pasatiempos favoritos")
+print("Escuchar musica de BTS")
+print("Ver RUN de BTS")
+print("Ver k-dramas")
+print("Dormir")
+print("Ir al cine a ver los concirtos de BTS")
