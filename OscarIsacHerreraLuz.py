@@ -1,0 +1,6 @@
+print("Mis 5 pasatiempos favoritos:")
+print("1. Leer libros ciencia ficción")
+print("2. jugar futbol")
+print("3. Jugar poker ")
+print("4. Bailar los dines  semana")
+print("5. Jugar videojuegos de estrategia")
