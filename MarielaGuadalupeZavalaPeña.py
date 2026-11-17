@@ -1,0 +1,5 @@
+print("Dormir")
+print("Leer")
+print("Cocinar")
+print("Escuchar musica")
+print("Ver películas y series")

@@ -1,0 +1,5 @@
+print("Dormir")
+print("leer")
+print("ver el celular")
+print("escuchar musica")
+print("ver peliculas")

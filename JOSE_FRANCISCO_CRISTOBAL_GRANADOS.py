@@ -1,0 +1,5 @@
+print("jugar")
+print("comer")
+print("platicar")
+print("estudiar ")	
+print("platicar mas")
