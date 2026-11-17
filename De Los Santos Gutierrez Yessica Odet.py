@@ -1,0 +1,7 @@
+print("Mi nombre es Yessica Odet De Los Santos Gutierrez")
+print("Mis pasatiempos favoritos son:")
+print("1. Escuchar musica")
+print("2. Ver series")
+print("3. Salir con mis amigas")
+print("4. Dibujar")
+print("5. Dormir")
