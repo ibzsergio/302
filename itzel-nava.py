@@ -1,0 +1,6 @@
+print("Mis 5 pasatiempos favoritos")
+print("Leer libros de wattpat")
+print("Dormir")
+print("Escuchar musica")
+print("Maquillarme")
+print("Estar con mi novio")

@@ -1,0 +1,5 @@
+print("1.caminar")
+print("2.escuchar musica")
+print ("3. escribir")
+print("4.pintar")
+print ("5. ver series")

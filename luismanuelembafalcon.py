@@ -1,0 +1,5 @@
+print("tocar el teclado")
+print("ver videos")
+print("jugar videojuegos")
+print("platicar con amigos")
+print("tomar agua")
