@@ -1,0 +1,5 @@
+print("ver la tele")
+print("salir al parque")
+print("jugar básquet")
+print(" ir al cine con mi famila")
+print("dormir")
