@@ -1,0 +1,6 @@
+print("Mis 5 pasatiempos favoritos son:")
+print("1. Cantar")
+print("2. Jugar fútbol")
+print("3. Tomar fotos")
+print("4. Leer")
+print("5. Cocinar postres")
