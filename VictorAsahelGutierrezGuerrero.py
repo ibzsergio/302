@@ -1,0 +1,5 @@
+print("Jugar videojuegos")
+print("Leer")
+print("Ver videos")
+print("Platicar")
+print("Salir con mi familia")
